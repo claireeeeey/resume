@@ -1,0 +1,53 @@
+html {
+  margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+  font-family: Georgia, serif;
+}
+
+body {
+  background: linear-gradient(to right, #3525af, #9153c9);
+}
+
+.resume{
+	width: 800px;
+	background: #fff;
+	margin: 25px auto;
+}
+
+.top{
+	padding: 0 20px;
+  display: flex;
+}
+
+.topleft{
+  text-align: center;
+  color: white;
+	background: #EF5350;
+  width: 50px;
+  line-height: 150px;
+}
+
+.topright{
+  width: 250px;
+  padding: 0 20px;
+}
+
+#name{
+  font-weight: bold;
+  padding: 0 20px;
+  font-size: 40px;
+	color: #EF5350;
+}
+
+#id{
+  padding: 0 20px;
+  font-size: 40px;
+	color: #EF5350;
+}
+
+.contact{
+  padding: 0 20px;
+	color: black;
+}
