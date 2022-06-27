@@ -1,9 +1,8 @@
-html {
-  font-family: Georgia, serif;
-}
-
 body {
   background: linear-gradient(to right, #3525af, #9153c9);
+  font-family: Georgia, serif;
+  font-size: 13px;
+  color: #000000;
 }
 
 .resume {
@@ -49,7 +48,6 @@ header {
 .contact {
   padding-left: 20px;
   padding-top: 1em;
-  font-size: 13px;
 }
 
 .content {
@@ -58,7 +56,7 @@ header {
 }
 
 .left {
-  color: #fff;
+  color: white;
 	background: #D04441;
   width: 250px;
   padding-left: 15px;
@@ -128,7 +126,6 @@ header {
   padding-left: 50px;
   padding-right: 15px;
   width: calc(100% - 220px);
-  font-size: 13px;
   line-height: 1.3;
 }
 
