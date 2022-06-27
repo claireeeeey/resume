@@ -8,8 +8,10 @@ body {
 
 .resume {
 	width: 700px;
-  min-height: 27.6cm;
+  margin: 25px auto;
+  height: 100%;
 	background: #fff;
+  align-items: center;
 }
 
 header {
@@ -51,7 +53,7 @@ header {
 
 .content {
   display: flex;
-  margin-top: 40px;
+  margin-top: 35px;
 }
 
 .left {
@@ -60,7 +62,7 @@ header {
   width: 250px;
   padding-left: 15px;
   padding-right: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 10px;
 }
 
 .profile {
@@ -111,7 +113,7 @@ header {
 }
 
 .comtitle {
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .c {
@@ -191,5 +193,7 @@ header {
 .note {
   font-size: 10px;
   width: 200px;
+  padding-top: 5px;
   padding-left: 20px;
+  padding-bottom: 30px;
 }
